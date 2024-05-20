@@ -1,6 +1,6 @@
 # Rune Transcript App
 
-![rune app](https://i.imgur.com/iPHsT7Q.png)
+![rune app](https://i.imgur.com/DvaFSMs.png)
  
 
 A simple web app which takes a latin input and transforms it to runic systems, it currently supports elder and younger futhark, anglo-saxon futhorc and medieval runes. For the younger futhark system it has the option to toggle between short-twig types and long-branch types. 
